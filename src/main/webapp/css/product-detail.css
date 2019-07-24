@@ -1,0 +1,23 @@
+
+.image-preview {
+    height: 280px;
+}
+
+.product-price{
+    color: #B12704;
+    font-size: 18px;
+
+}
+.product-desc{
+    color: #1e7e34;
+    font-size: 16px;
+}
+.product-title{
+    font-style: italic;
+    color: #004085;
+}
+
+body {
+    padding-top: 90px !important;
+}
+
